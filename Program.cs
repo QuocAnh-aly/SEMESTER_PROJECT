@@ -11,7 +11,7 @@ while (n > 0)
 }
 if (temp == sum)
 {
-    Console.WriteLine("so doi xung");
+    Console.WriteLine("so");
 }
 else
     Console.WriteLine("so khong doi xung");
